@@ -1,11 +1,11 @@
 # vuex-elemantUI-boilerplate
 
 ## includes
- - Vue on Vuex
- - element UI
- - Webpack
- - ESLint (standard)
- - sass & pug
+ - [ ] Vuex
+ - [x] element UI
+ - [x] Webpack
+ - [x] ESLint (standard)
+ - [x] sass & pug
 
 ## Usage
 
